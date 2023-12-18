@@ -21,14 +21,13 @@ Bearbrick E-commerce is a one-stop-shop for Bearbrick enthusiasts, providing a s
 - Explore a carefully curated catalog of Bearbricks.
 - Securely purchase your favorite collectibles with our user-friendly e-commerce platform.
 - Stay updated on new releases, special editions, and upcoming collaborations.
-- Connect with the Bearbrick community through our integrated social features.
 
 ## Getting Started
 
-1. Visit [Bearbrick E-commerce](#) to start exploring the world of Bearbricks.
+1. Visit [Bearbrick E-commerce](https://bear-brick-fusion.vercel.app/) to start exploring the world of Bearbricks.
 2. Browse through our extensive collection and find the perfect addition to your collection.
 3. Create an account to streamline your shopping experience and stay informed about the latest releases.
 
 Happy collecting!
 
-[Visit Bearbrick E-commerce](#)
+[Visit Bearbrick E-commerce](https://bear-brick-fusion.vercel.app/)
